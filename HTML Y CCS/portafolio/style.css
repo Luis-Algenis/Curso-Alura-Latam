@@ -17,5 +17,9 @@ strong {
 .presentacion {
     display: flex;
     align-items: center;
-    margin:10%;
+    margin:2%;
+    justify-content: space-between;
+}
+.elevacion__contenido {
+    width: 500px;
 }
